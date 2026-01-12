@@ -4,15 +4,15 @@ Welcome to your first Flutter project! This is a simple, elegant one-screen port
 🎯 Learning Objectives
 By exploring this project, you will learn:
 
-# 1.How to use StatelessWidgets.
+1.How to use StatelessWidgets.
 
-# 2.Building layouts with Column and Row.
+2.Building layouts with Column and Row.
 
-# 3.Implementing custom Google Fonts.
+3.Implementing custom Google Fonts.
 
-# 4.Adding and managing Assets (images).
+4.Adding and managing Assets (images).
 
-# 5.Customizing UI with Icons and Cards.
+5.Customizing UI with Icons and Cards.
 
 🚀 Getting Started
 Prerequisites
